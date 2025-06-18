@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "invutil"
-version = "0.1.0"
+version = "0.1.1"
 description = "Utility functions for financial document processing"
 authors = ["Tom Sapletta"]
 readme = "README.md"
